@@ -1,0 +1,42 @@
+E:\Islington\Application development\Rating System\bin\Debug\Rating System.exe.config
+E:\Islington\Application development\Rating System\bin\Debug\Rating System.exe
+E:\Islington\Application development\Rating System\bin\Debug\Rating System.pdb
+E:\Islington\Application development\Rating System\obj\Debug\Rating System.csprojAssemblyReference.cache
+E:\Islington\Application development\Rating System\obj\Debug\Rating_System.Login.resources
+E:\Islington\Application development\Rating System\obj\Debug\Rating_System.Properties.Resources.resources
+E:\Islington\Application development\Rating System\obj\Debug\Rating System.csproj.GenerateResource.cache
+E:\Islington\Application development\Rating System\obj\Debug\Rating System.csproj.CoreCompileInputs.cache
+E:\Islington\Application development\Rating System\obj\Debug\Rating System.exe
+E:\Islington\Application development\Rating System\obj\Debug\Rating System.pdb
+E:\Islington\Application development\Rating System\obj\Debug\Rating_System.Feedback.resources
+E:\Islington\Application development\Rating System\obj\Debug\Rating_System.Dashboard.resources
+E:\Islington\Application development\Rating System\obj\Debug\Rating_System.Graph.resources
+E:\Islington\Application development\Rating System\obj\Debug\Rating_System.Details.resources
+C:\Users\kitty\Downloads\Rating System\bin\Debug\Rating System.exe.config
+C:\Users\kitty\Downloads\Rating System\bin\Debug\Rating System.exe
+C:\Users\kitty\Downloads\Rating System\bin\Debug\Rating System.pdb
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating System.csprojAssemblyReference.cache
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating_System.Dashboard.resources
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating_System.Details.resources
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating_System.Feedback.resources
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating_System.Graph.resources
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating_System.Login.resources
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating_System.Properties.Resources.resources
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating System.csproj.GenerateResource.cache
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating System.csproj.CoreCompileInputs.cache
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating System.exe
+C:\Users\kitty\Downloads\Rating System\obj\Debug\Rating System.pdb
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\bin\Debug\Rating System.exe.config
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\bin\Debug\Rating System.exe
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\bin\Debug\Rating System.pdb
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating System.csprojAssemblyReference.cache
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating_System.Dashboard.resources
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating_System.Details.resources
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating_System.Feedback.resources
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating_System.Graph.resources
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating_System.Login.resources
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating_System.Properties.Resources.resources
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating System.csproj.GenerateResource.cache
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating System.csproj.CoreCompileInputs.cache
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating System.exe
+C:\Users\kitty\OneDrive\Desktop\Islington College\3rd year\app development\Rating System\obj\Debug\Rating System.pdb
